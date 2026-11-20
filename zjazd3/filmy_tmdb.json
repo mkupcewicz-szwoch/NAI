@@ -1,0 +1,2924 @@
+{
+  "filmy": {
+    "1670": {
+      "id": 236450,
+      "tytul_tmdb": "1670",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 7.5,
+      "glosy": 153
+    },
+    "365 dni": {
+      "id": 664413,
+      "tytul_tmdb": "365 dni",
+      "gatunki": [
+        "Romance",
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 6.98,
+      "glosy": 9633
+    },
+    "60 sekund": {
+      "id": 9679,
+      "tytul_tmdb": "60 sekund",
+      "gatunki": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "ocena": 6.483,
+      "glosy": 5137
+    },
+    "Ad Astra": {
+      "id": 419704,
+      "tytul_tmdb": "Ad Astra",
+      "gatunki": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "ocena": 6.146,
+      "glosy": 7557
+    },
+    "After (2019)": {
+      "id": 537915,
+      "tytul_tmdb": "After",
+      "gatunki": [
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.1,
+      "glosy": 8600
+    },
+    "Akira": {
+      "id": 149,
+      "tytul_tmdb": "Akira",
+      "gatunki": [
+        "Animation",
+        "Science Fiction",
+        "Action"
+      ],
+      "ocena": 7.9,
+      "glosy": 5128
+    },
+    "Andor": {
+      "id": 83867,
+      "tytul_tmdb": "Gwiezdne wojny: Andor",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "ocena": 8.323,
+      "glosy": 2343
+    },
+    "Anihilacja": {
+      "id": 300668,
+      "tytul_tmdb": "Anihilacja",
+      "gatunki": [
+        "Science Fiction",
+        "Horror"
+      ],
+      "ocena": 6.454,
+      "glosy": 9791
+    },
+    "Apollo 11": {
+      "id": 549559,
+      "tytul_tmdb": "Apollo 11",
+      "gatunki": [
+        "Documentary",
+        "History",
+        "Drama"
+      ],
+      "ocena": 7.865,
+      "glosy": 746
+    },
+    "Arcane": {
+      "id": 94605,
+      "tytul_tmdb": "Arcane",
+      "gatunki": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 8.748,
+      "glosy": 6338
+    },
+    "Assassin's Creed": {
+      "id": 121856,
+      "tytul_tmdb": "Assassin's Creed",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "ocena": 5.4,
+      "glosy": 8336
+    },
+    "Auta": {
+      "id": 920,
+      "tytul_tmdb": "Auta",
+      "gatunki": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "ocena": 7.1,
+      "glosy": 15756
+    },
+    "Avatar": {
+      "id": 19995,
+      "tytul_tmdb": "Avatar",
+      "gatunki": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "ocena": 7.612,
+      "glosy": 35060
+    },
+    "Avengers: Czas Ultrona": {
+      "id": 99861,
+      "tytul_tmdb": "Avengers: Czas Ultrona",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "ocena": 7.278,
+      "glosy": 25384
+    },
+    "Backrooms. Bez wyjścia": {
+      "id": 1083381,
+      "tytul_tmdb": "Backrooms. Bez wyjścia",
+      "gatunki": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "ocena": 6.984,
+      "glosy": 4145
+    },
+    "Barbarzyńcy (2020)": {
+      "id": 93785,
+      "tytul_tmdb": "Barbarzyńcy",
+      "gatunki": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "ocena": 7.286,
+      "glosy": 695
+    },
+    "Barbie": {
+      "id": 346698,
+      "tytul_tmdb": "Barbie",
+      "gatunki": [
+        "Comedy",
+        "Adventure",
+        "Fantasy"
+      ],
+      "ocena": 6.903,
+      "glosy": 11838
+    },
+    "Batman (2022)": {
+      "id": 414906,
+      "tytul_tmdb": "Batman",
+      "gatunki": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "ocena": 7.674,
+      "glosy": 12928
+    },
+    "Battleship: Bitwa o Ziemię": {
+      "id": 44833,
+      "tytul_tmdb": "Battleship: Bitwa o Ziemię",
+      "gatunki": [
+        "Thriller",
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "ocena": 5.9,
+      "glosy": 6277
+    },
+    "Bez litości": {
+      "id": 156022,
+      "tytul_tmdb": "Bez Litości",
+      "gatunki": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "ocena": 7.297,
+      "glosy": 10389
+    },
+    "Big Short": {
+      "id": 318846,
+      "tytul_tmdb": "Big Short",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 7.379,
+      "glosy": 10273
+    },
+    "Bitwa o Anglię": {
+      "id": 11463,
+      "tytul_tmdb": "Bitwa o Anglię",
+      "gatunki": [
+        "War",
+        "History",
+        "Action",
+        "Drama"
+      ],
+      "ocena": 6.82,
+      "glosy": 374
+    },
+    "Blade Runner 2049": {
+      "id": 335984,
+      "tytul_tmdb": "Blade Runner 2049",
+      "gatunki": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "ocena": 7.615,
+      "glosy": 16055
+    },
+    "Bogowie": {
+      "id": 298040,
+      "tytul_tmdb": "Bogowie",
+      "gatunki": [
+        "Drama",
+        "History"
+      ],
+      "ocena": 7.674,
+      "glosy": 178
+    },
+    "Bohemian Rhapsody": {
+      "id": 424694,
+      "tytul_tmdb": "Bohemian Rhapsody",
+      "gatunki": [
+        "Music",
+        "Drama"
+      ],
+      "ocena": 7.944,
+      "glosy": 18245
+    },
+    "Borderlands": {
+      "id": 365177,
+      "tytul_tmdb": "Borderlands",
+      "gatunki": [
+        "Action",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "ocena": 5.5,
+      "glosy": 1617
+    },
+    "Botoks": {
+      "id": 458386,
+      "tytul_tmdb": "Botoks",
+      "gatunki": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 4.0,
+      "glosy": 97
+    },
+    "Braveheart: Waleczne Serce": {
+      "id": 197,
+      "tytul_tmdb": "Braveheart: Waleczne Serce",
+      "gatunki": [
+        "History",
+        "Drama",
+        "War",
+        "Action"
+      ],
+      "ocena": 7.946,
+      "glosy": 11651
+    },
+    "Breaking Bad": {
+      "id": 1396,
+      "tytul_tmdb": "Breaking Bad",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.959,
+      "glosy": 19161
+    },
+    "Bukayo Saka: The Time is Now": {
+      "id": 1707544,
+      "tytul_tmdb": "Bukayo Saka: The Time Is Now",
+      "gatunki": [
+        "Documentary"
+      ],
+      "ocena": 8.0,
+      "glosy": 2
+    },
+    "Bullet Train": {
+      "id": 718930,
+      "tytul_tmdb": "Bullet Train",
+      "gatunki": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "ocena": 7.402,
+      "glosy": 8184
+    },
+    "Candyman3": {
+      "id": 12485,
+      "tytul_tmdb": "Candyman III: Dzień umarłych",
+      "gatunki": [
+        "Horror",
+        "Thriller"
+      ],
+      "ocena": 4.6,
+      "glosy": 287
+    },
+    "Chainsaw Man – The Movie: Reze Arc": {
+      "id": 1218925,
+      "tytul_tmdb": "Chainsaw Man – The Movie: Reze Arc",
+      "gatunki": [
+        "Animation",
+        "Action",
+        "Romance",
+        "Fantasy"
+      ],
+      "ocena": 8.5,
+      "glosy": 1299
+    },
+    "Challengers": {
+      "id": 937287,
+      "tytul_tmdb": "Challengers",
+      "gatunki": [
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 6.9,
+      "glosy": 2971
+    },
+    "Chłopaki nie płaczą": {
+      "id": 36380,
+      "tytul_tmdb": "Chłopaki nie płaczą",
+      "gatunki": [
+        "Comedy",
+        "Crime"
+      ],
+      "ocena": 7.4,
+      "glosy": 167
+    },
+    "Chłopaki z baraków": {
+      "id": 3796,
+      "tytul_tmdb": "Chłopaki z baraków",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 7.8,
+      "glosy": 352
+    },
+    "Chłopcy z ferajny": {
+      "id": 769,
+      "tytul_tmdb": "Chłopcy z ferajny",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.451,
+      "glosy": 15058
+    },
+    "Cicha Noc": {
+      "id": 478326,
+      "tytul_tmdb": "Cicha noc",
+      "gatunki": [
+        "Drama",
+        "Comedy"
+      ],
+      "ocena": 6.9,
+      "glosy": 90
+    },
+    "Constantine": {
+      "id": 561,
+      "tytul_tmdb": "Constantine",
+      "gatunki": [
+        "Fantasy",
+        "Action",
+        "Horror"
+      ],
+      "ocena": 7.216,
+      "glosy": 8740
+    },
+    "Contratiempo. Niewidzialny gość": {
+      "id": 411088,
+      "tytul_tmdb": "Contratiempo. Niewidzialny gość",
+      "gatunki": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "ocena": 8.065,
+      "glosy": 5220
+    },
+    "Cube": {
+      "id": 431,
+      "tytul_tmdb": "Cube",
+      "gatunki": [
+        "Thriller",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "ocena": 6.8,
+      "glosy": 5499
+    },
+    "Cyberpunk: Edgerunners": {
+      "id": 105248,
+      "tytul_tmdb": "Cyberpunk: Edgerunners",
+      "gatunki": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Crime"
+      ],
+      "ocena": 8.501,
+      "glosy": 2164
+    },
+    "Czarne lustro": {
+      "id": 42009,
+      "tytul_tmdb": "Czarne lustro",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "ocena": 8.296,
+      "glosy": 6709
+    },
+    "Deadpool & Wolverine": {
+      "id": 533535,
+      "tytul_tmdb": "Deadpool & Wolverine",
+      "gatunki": [
+        "Action",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "ocena": 7.584,
+      "glosy": 9871
+    },
+    "Deadpool (2016)": {
+      "id": 293660,
+      "tytul_tmdb": "Deadpool",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "ocena": 7.6,
+      "glosy": 33655
+    },
+    "Deja Vu": {
+      "id": 7551,
+      "tytul_tmdb": "Deja Vu",
+      "gatunki": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "ocena": 6.9,
+      "glosy": 5580
+    },
+    "Destrukcja": {
+      "id": 303991,
+      "tytul_tmdb": "Destrukcja",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 6.9,
+      "glosy": 2676
+    },
+    "Dexter": {
+      "id": 1405,
+      "tytul_tmdb": "Dexter",
+      "gatunki": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "ocena": 8.243,
+      "glosy": 6049
+    },
+    "Diabeł ubiera się u Prady": {
+      "id": 350,
+      "tytul_tmdb": "Diabeł ubiera się u Prady",
+      "gatunki": [
+        "Drama",
+        "Comedy"
+      ],
+      "ocena": 7.4,
+      "glosy": 14454
+    },
+    "Diuna": {
+      "id": 438631,
+      "tytul_tmdb": "Diuna",
+      "gatunki": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "ocena": 7.786,
+      "glosy": 16005
+    },
+    "Diuna: Część druga": {
+      "id": 693134,
+      "tytul_tmdb": "Diuna: Część druga",
+      "gatunki": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "ocena": 8.142,
+      "glosy": 9021
+    },
+    "Diuna: Proroctwo": {
+      "id": 90228,
+      "tytul_tmdb": "Diuna: Proroctwo",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "ocena": 7.216,
+      "glosy": 690
+    },
+    "Django": {
+      "id": 68718,
+      "tytul_tmdb": "Django",
+      "gatunki": [
+        "Drama",
+        "Western"
+      ],
+      "ocena": 8.194,
+      "glosy": 29004
+    },
+    "Dom z papieru": {
+      "id": 71446,
+      "tytul_tmdb": "Dom z papieru",
+      "gatunki": [
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 8.2,
+      "glosy": 19815
+    },
+    "Dragonball: Ewolucja": {
+      "id": 14164,
+      "tytul_tmdb": "Dragonball: Ewolucja",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "ocena": 2.9,
+      "glosy": 2337
+    },
+    "Drama": {
+      "id": 1325734,
+      "tytul_tmdb": "Drama",
+      "gatunki": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 6.91,
+      "glosy": 2096
+    },
+    "Dwunastu gniewnych ludzi (1957)": {
+      "id": 389,
+      "tytul_tmdb": "12 gniewnych ludzi",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 8.6,
+      "glosy": 10620
+    },
+    "Dyktator (2012)": {
+      "id": 76493,
+      "tytul_tmdb": "Dyktator",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 6.3,
+      "glosy": 6748
+    },
+    "Dziennik Bridget Jones": {
+      "id": 634,
+      "tytul_tmdb": "Dziennik Bridget Jones",
+      "gatunki": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "ocena": 6.7,
+      "glosy": 5716
+    },
+    "Dzień świra": {
+      "id": 20719,
+      "tytul_tmdb": "Dzień świra",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 7.591,
+      "glosy": 252
+    },
+    "Dzień świstaka": {
+      "id": 137,
+      "tytul_tmdb": "Dzień świstaka",
+      "gatunki": [
+        "Romance",
+        "Fantasy",
+        "Comedy"
+      ],
+      "ocena": 7.637,
+      "glosy": 9370
+    },
+    "Edward nożycoręki": {
+      "id": 162,
+      "tytul_tmdb": "Edward Nożycoręki",
+      "gatunki": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.7,
+      "glosy": 14221
+    },
+    "Ex Machina": {
+      "id": 264660,
+      "tytul_tmdb": "Ex Machina",
+      "gatunki": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "ocena": 7.57,
+      "glosy": 14820
+    },
+    "F1: Film": {
+      "id": 911430,
+      "tytul_tmdb": "F1: Film",
+      "gatunki": [
+        "Action",
+        "Drama"
+      ],
+      "ocena": 7.832,
+      "glosy": 5030
+    },
+    "Faceci w Czerni": {
+      "id": 607,
+      "tytul_tmdb": "Faceci w czerni",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "ocena": 7.234,
+      "glosy": 15458
+    },
+    "Forrest Gump": {
+      "id": 13,
+      "tytul_tmdb": "Forrest Gump",
+      "gatunki": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 8.462,
+      "glosy": 30932
+    },
+    "Frankenstein (2025)": {
+      "id": 1062722,
+      "tytul_tmdb": "Frankenstein",
+      "gatunki": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "ocena": 7.591,
+      "glosy": 4093
+    },
+    "Fundacja": {
+      "id": 93740,
+      "tytul_tmdb": "Fundacja",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ],
+      "ocena": 7.7,
+      "glosy": 1890
+    },
+    "Furia": {
+      "id": 228150,
+      "tytul_tmdb": "Furia",
+      "gatunki": [
+        "War",
+        "Drama",
+        "Action"
+      ],
+      "ocena": 7.546,
+      "glosy": 13450
+    },
+    "Furioza (2021)": {
+      "id": 866678,
+      "tytul_tmdb": "Furioza",
+      "gatunki": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 6.3,
+      "glosy": 229
+    },
+    "Galerianki": {
+      "id": 32559,
+      "tytul_tmdb": "Galerianki",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 5.3,
+      "glosy": 85
+    },
+    "Geostorm": {
+      "id": 274855,
+      "tytul_tmdb": "Geostorm",
+      "gatunki": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "ocena": 6.126,
+      "glosy": 5431
+    },
+    "Ghost in the shell": {
+      "id": 9323,
+      "tytul_tmdb": "Ghost in the Shell",
+      "gatunki": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "ocena": 7.931,
+      "glosy": 4161
+    },
+    "Gladiator": {
+      "id": 98,
+      "tytul_tmdb": "Gladiator",
+      "gatunki": [
+        "Action",
+        "Drama",
+        "Adventure"
+      ],
+      "ocena": 8.234,
+      "glosy": 21906
+    },
+    "Gnijąca panna młoda": {
+      "id": 3933,
+      "tytul_tmdb": "Gnijąca panna młoda",
+      "gatunki": [
+        "Romance",
+        "Fantasy",
+        "Animation"
+      ],
+      "ocena": 7.598,
+      "glosy": 10690
+    },
+    "Gra o tron": {
+      "id": 1399,
+      "tytul_tmdb": "Gra o tron",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "ocena": 8.476,
+      "glosy": 28215
+    },
+    "Gran Torino": {
+      "id": 13223,
+      "tytul_tmdb": "Gran Torino",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 8.0,
+      "glosy": 12001
+    },
+    "Grand Budapest Hotel": {
+      "id": 120467,
+      "tytul_tmdb": "Grand Budapest Hotel",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 8.0,
+      "glosy": 16777
+    },
+    "Grand Tour": {
+      "id": 67557,
+      "tytul_tmdb": "The Grand Tour",
+      "gatunki": [
+        "Reality",
+        "Comedy",
+        "Talk"
+      ],
+      "ocena": 8.036,
+      "glosy": 923
+    },
+    "Grawitacja": {
+      "id": 49047,
+      "tytul_tmdb": "Grawitacja",
+      "gatunki": [
+        "Science Fiction",
+        "Thriller",
+        "Drama"
+      ],
+      "ocena": 7.2,
+      "glosy": 16905
+    },
+    "Green Book": {
+      "id": 490132,
+      "tytul_tmdb": "Green Book",
+      "gatunki": [
+        "Drama",
+        "Comedy",
+        "History"
+      ],
+      "ocena": 8.2,
+      "glosy": 13516
+    },
+    "Gwiezdne wojny: Część III - Zemsta Sithów": null,
+    "Harry Potter i Kamień Filozoficzny (2001)": {
+      "id": 671,
+      "tytul_tmdb": "Harry Potter i Kamień Filozoficzny",
+      "gatunki": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "ocena": 7.905,
+      "glosy": 30659
+    },
+    "Helikopter w ogniu": {
+      "id": 855,
+      "tytul_tmdb": "Helikopter w ogniu",
+      "gatunki": [
+        "Action",
+        "War",
+        "History"
+      ],
+      "ocena": 7.408,
+      "glosy": 6737
+    },
+    "Hobbit: Niezwykła podróż": {
+      "id": 49051,
+      "tytul_tmdb": "Hobbit: Niezwykła podróż",
+      "gatunki": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "ocena": 7.389,
+      "glosy": 20367
+    },
+    "Idiokracja": {
+      "id": 7512,
+      "tytul_tmdb": "Idiokracja",
+      "gatunki": [
+        "Comedy",
+        "Science Fiction",
+        "Adventure",
+        "Thriller"
+      ],
+      "ocena": 6.385,
+      "glosy": 3949
+    },
+    "Incepcja": {
+      "id": 27205,
+      "tytul_tmdb": "Incepcja",
+      "gatunki": [
+        "Action",
+        "Science Fiction",
+        "Crime"
+      ],
+      "ocena": 8.373,
+      "glosy": 40788
+    },
+    "Inna mamusia": {
+      "id": 1400837,
+      "tytul_tmdb": "Inna mamusia",
+      "gatunki": [
+        "Horror"
+      ],
+      "ocena": 6.426,
+      "glosy": 537
+    },
+    "Interstellar": {
+      "id": 157336,
+      "tytul_tmdb": "Interstellar",
+      "gatunki": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "ocena": 8.493,
+      "glosy": 41970
+    },
+    "Jak sprzedawać dragi w sieci (szybko)": {
+      "id": 88236,
+      "tytul_tmdb": "Jak sprzedawać dragi w sieci (szybko)",
+      "gatunki": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ],
+      "ocena": 7.873,
+      "glosy": 997
+    },
+    "Jak wytresować smoka (2010)": {
+      "id": 10191,
+      "tytul_tmdb": "Jak wytresować smoka",
+      "gatunki": [
+        "Fantasy",
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "ocena": 7.867,
+      "glosy": 14943
+    },
+    "Jak zostałem gangsterem. Historia prawdziwa": {
+      "id": 660033,
+      "tytul_tmdb": "Jak zostałem gangsterem. Historia prawdziwa",
+      "gatunki": [
+        "Crime",
+        "Action"
+      ],
+      "ocena": 6.9,
+      "glosy": 131
+    },
+    "Jedna bitwa po drugiej": {
+      "id": 1054867,
+      "tytul_tmdb": "Jedna bitwa po drugiej",
+      "gatunki": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "ocena": 7.336,
+      "glosy": 4559
+    },
+    "Jeździec bez głowy (1999)": {
+      "id": 2668,
+      "tytul_tmdb": "Jeździec bez głowy",
+      "gatunki": [
+        "Fantasy",
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "ocena": 7.2,
+      "glosy": 7728
+    },
+    "John Wick": {
+      "id": 245891,
+      "tytul_tmdb": "John Wick",
+      "gatunki": [
+        "Action",
+        "Thriller"
+      ],
+      "ocena": 7.468,
+      "glosy": 21647
+    },
+    "Joker": {
+      "id": 475557,
+      "tytul_tmdb": "Joker",
+      "gatunki": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "ocena": 8.112,
+      "glosy": 28733
+    },
+    "Joker Folie a deux": {
+      "id": 889737,
+      "tytul_tmdb": "Joker: Folie à Deux",
+      "gatunki": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "ocena": 5.393,
+      "glosy": 3166
+    },
+    "Jumper": {
+      "id": 8247,
+      "tytul_tmdb": "Jumper",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "ocena": 6.2,
+      "glosy": 6543
+    },
+    "K-popowe łowczynie demonów": {
+      "id": 803796,
+      "tytul_tmdb": "K-popowe łowczynie demonów",
+      "gatunki": [
+        "Fantasy",
+        "Music",
+        "Comedy",
+        "Animation"
+      ],
+      "ocena": 7.966,
+      "glosy": 3377
+    },
+    "Kapitan Ameryka: Wojna bohaterów": {
+      "id": 271110,
+      "tytul_tmdb": "Kapitan Ameryka: Wojna bohaterów",
+      "gatunki": [
+        "Adventure",
+        "Action",
+        "Science Fiction"
+      ],
+      "ocena": 7.455,
+      "glosy": 24885
+    },
+    "Kapitan Bomba - Zemsta Faraona": {
+      "id": 175935,
+      "tytul_tmdb": "Kapitan Bomba - Zemsta Faraona",
+      "gatunki": [
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "ocena": 7.0,
+      "glosy": 6
+    },
+    "Kapitan Phillips": {
+      "id": 109424,
+      "tytul_tmdb": "Kapitan Phillips",
+      "gatunki": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 7.534,
+      "glosy": 7807
+    },
+    "Kevin sam w Nowym Jorku": {
+      "id": 772,
+      "tytul_tmdb": "Kevin sam w Nowym Jorku",
+      "gatunki": [
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "ocena": 6.801,
+      "glosy": 11082
+    },
+    "Kevin sam w domu (1990)": {
+      "id": 771,
+      "tytul_tmdb": "Kevin sam w domu",
+      "gatunki": [
+        "Comedy",
+        "Family"
+      ],
+      "ocena": 7.5,
+      "glosy": 13089
+    },
+    "Kiler": {
+      "id": 31132,
+      "tytul_tmdb": "Kiler",
+      "gatunki": [
+        "Comedy",
+        "Action",
+        "Crime"
+      ],
+      "ocena": 7.6,
+      "glosy": 185
+    },
+    "Kingsman: Tajne służby": {
+      "id": 207703,
+      "tytul_tmdb": "Kingsman: Tajne służby",
+      "gatunki": [
+        "Crime",
+        "Comedy",
+        "Action"
+      ],
+      "ocena": 7.615,
+      "glosy": 18422
+    },
+    "Klan": {
+      "id": 6489,
+      "tytul_tmdb": "Klan",
+      "gatunki": [
+        "Soap"
+      ],
+      "ocena": 5.5,
+      "glosy": 11
+    },
+    "Kompania braci": {
+      "id": 4613,
+      "tytul_tmdb": "Kompania braci",
+      "gatunki": [
+        "Drama",
+        "War & Politics"
+      ],
+      "ocena": 8.6,
+      "glosy": 4491
+    },
+    "Kompletnie nieznany": {
+      "id": 661539,
+      "tytul_tmdb": "Kompletnie nieznany",
+      "gatunki": [
+        "Drama",
+        "Music"
+      ],
+      "ocena": 7.064,
+      "glosy": 1626
+    },
+    "Kraina Lodu": {
+      "id": 109445,
+      "tytul_tmdb": "Kraina lodu",
+      "gatunki": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Fantasy"
+      ],
+      "ocena": 7.249,
+      "glosy": 18101
+    },
+    "Królestwo Niebieskie": {
+      "id": 1495,
+      "tytul_tmdb": "Królestwo niebieskie",
+      "gatunki": [
+        "Drama",
+        "Action",
+        "Adventure",
+        "History",
+        "War"
+      ],
+      "ocena": 7.1,
+      "glosy": 5378
+    },
+    "Księżniczka Mononoke": {
+      "id": 128,
+      "tytul_tmdb": "Księżniczka Mononoke",
+      "gatunki": [
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "ocena": 8.322,
+      "glosy": 9479
+    },
+    "Kto zabił kapitana Alexa?": {
+      "id": 316776,
+      "tytul_tmdb": "Kto zabił kapitana Alexa?",
+      "gatunki": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 6.538,
+      "glosy": 186
+    },
+    "Kubuś i przyjaciele (2011)": {
+      "id": 51162,
+      "tytul_tmdb": "Kubuś i przyjaciele",
+      "gatunki": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Comedy"
+      ],
+      "ocena": 6.901,
+      "glosy": 1001
+    },
+    "Kulawe Konie": {
+      "id": 95480,
+      "tytul_tmdb": "Kulawe konie",
+      "gatunki": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "ocena": 8.079,
+      "glosy": 1140
+    },
+    "LEGO Przygoda": {
+      "id": 137106,
+      "tytul_tmdb": "LEGO® Przygoda",
+      "gatunki": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "ocena": 7.434,
+      "glosy": 8870
+    },
+    "Legion Samobójców": {
+      "id": 297761,
+      "tytul_tmdb": "Legion samobójców",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "ocena": 5.916,
+      "glosy": 22646
+    },
+    "Lejdis": {
+      "id": 14558,
+      "tytul_tmdb": "Lejdis",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 5.0,
+      "glosy": 58
+    },
+    "Lepiej być nie może": {
+      "id": 2898,
+      "tytul_tmdb": "Lepiej być nie może",
+      "gatunki": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ],
+      "ocena": 7.4,
+      "glosy": 4336
+    },
+    "Lighthouse": {
+      "id": 503919,
+      "tytul_tmdb": "Lighthouse",
+      "gatunki": [
+        "Drama",
+        "Fantasy",
+        "Thriller"
+      ],
+      "ocena": 7.462,
+      "glosy": 5926
+    },
+    "Listy do M.": {
+      "id": 79221,
+      "tytul_tmdb": "Listy do M.",
+      "gatunki": [
+        "Comedy",
+        "Romance"
+      ],
+      "ocena": 6.9,
+      "glosy": 156
+    },
+    "Listy do M. 2": {
+      "id": 370291,
+      "tytul_tmdb": "Listy do M. 2",
+      "gatunki": [
+        "Comedy",
+        "Romance"
+      ],
+      "ocena": 6.156,
+      "glosy": 96
+    },
+    "Lot": {
+      "id": 87502,
+      "tytul_tmdb": "Lot",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 6.9,
+      "glosy": 6716
+    },
+    "Lot nad kukułczym gniazdem": {
+      "id": 510,
+      "tytul_tmdb": "Lot nad kukułczym gniazdem",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 8.4,
+      "glosy": 11983
+    },
+    "Lucyfer": {
+      "id": 63174,
+      "tytul_tmdb": "Lucyfer",
+      "gatunki": [
+        "Crime",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 8.426,
+      "glosy": 15803
+    },
+    "Ludzka stonoga": {
+      "id": 37169,
+      "tytul_tmdb": "Ludzka stonoga",
+      "gatunki": [
+        "Horror"
+      ],
+      "ocena": 5.163,
+      "glosy": 2522
+    },
+    "Maczeta zabija w kosmosie": null,
+    "Marsjanin": {
+      "id": 286217,
+      "tytul_tmdb": "Marsjanin",
+      "gatunki": [
+        "Science Fiction",
+        "Drama",
+        "Adventure"
+      ],
+      "ocena": 7.713,
+      "glosy": 22156
+    },
+    "Marvels": {
+      "id": 609681,
+      "tytul_tmdb": "Marvels",
+      "gatunki": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "ocena": 5.892,
+      "glosy": 3763
+    },
+    "Matrix": {
+      "id": 603,
+      "tytul_tmdb": "Matrix",
+      "gatunki": [
+        "Action",
+        "Science Fiction"
+      ],
+      "ocena": 8.264,
+      "glosy": 29310
+    },
+    "Mentalista": {
+      "id": 5920,
+      "tytul_tmdb": "Mentalista",
+      "gatunki": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "ocena": 8.419,
+      "glosy": 5033
+    },
+    "Menu": {
+      "id": 593643,
+      "tytul_tmdb": "Menu",
+      "gatunki": [
+        "Comedy",
+        "Horror"
+      ],
+      "ocena": 7.179,
+      "glosy": 6896
+    },
+    "Miasteczko South Park": {
+      "id": 2190,
+      "tytul_tmdb": "Miasteczko South Park",
+      "gatunki": [
+        "Comedy",
+        "Animation"
+      ],
+      "ocena": 8.333,
+      "glosy": 5287
+    },
+    "Miasteczko halloween": {
+      "id": 9479,
+      "tytul_tmdb": "Miasteczko Halloween",
+      "gatunki": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "ocena": 7.86,
+      "glosy": 10958
+    },
+    "Miecz zabójcy demonów": {
+      "id": 85937,
+      "tytul_tmdb": "Miecz zabójcy demonów – Kimetsu no Yaiba",
+      "gatunki": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 8.635,
+      "glosy": 7582
+    },
+    "Minecraft: Film": {
+      "id": 950387,
+      "tytul_tmdb": "Minecraft. Film",
+      "gatunki": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "ocena": 6.185,
+      "glosy": 3466
+    },
+    "Minionki (2015)": {
+      "id": 211672,
+      "tytul_tmdb": "Minionki",
+      "gatunki": [
+        "Family",
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "ocena": 6.4,
+      "glosy": 11436
+    },
+    "Misja Greyhound": {
+      "id": 516486,
+      "tytul_tmdb": "Misja Greyhound",
+      "gatunki": [
+        "War",
+        "Action",
+        "Drama"
+      ],
+      "ocena": 7.412,
+      "glosy": 3560
+    },
+    "Monty Python i Święty Graal": {
+      "id": 762,
+      "tytul_tmdb": "Monty Python i Święty Graal",
+      "gatunki": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "ocena": 7.799,
+      "glosy": 6735
+    },
+    "Morbius": {
+      "id": 526896,
+      "tytul_tmdb": "Morbius",
+      "gatunki": [
+        "Action",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "ocena": 5.887,
+      "glosy": 5086
+    },
+    "Mordercza opona (Rubber)": {
+      "id": 45649,
+      "tytul_tmdb": "Mordercza opona",
+      "gatunki": [
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "ocena": 5.9,
+      "glosy": 1172
+    },
+    "Mroczny rycerz": {
+      "id": 155,
+      "tytul_tmdb": "Mroczny Rycerz",
+      "gatunki": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "ocena": 8.5,
+      "glosy": 37438
+    },
+    "Młody Sheldon": {
+      "id": 71728,
+      "tytul_tmdb": "Młody Sheldon",
+      "gatunki": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "ocena": 8.017,
+      "glosy": 3169
+    },
+    "Na noże": {
+      "id": 546554,
+      "tytul_tmdb": "Na noże",
+      "gatunki": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "ocena": 7.842,
+      "glosy": 14831
+    },
+    "Na zachodzie bez zmian": {
+      "id": 49046,
+      "tytul_tmdb": "Na Zachodzie bez zmian",
+      "gatunki": [
+        "War",
+        "Drama"
+      ],
+      "ocena": 7.739,
+      "glosy": 5082
+    },
+    "Naga broń (1988)": {
+      "id": 37136,
+      "tytul_tmdb": "Naga broń: Z akt Wydziału Specjalnego",
+      "gatunki": [
+        "Comedy",
+        "Crime"
+      ],
+      "ocena": 7.3,
+      "glosy": 4789
+    },
+    "Naga broń 33 1/3: Ostateczna zniewaga": {
+      "id": 36593,
+      "tytul_tmdb": "Naga broń 33 1/3: Ostateczna zniewaga",
+      "gatunki": [
+        "Comedy",
+        "Crime"
+      ],
+      "ocena": 6.5,
+      "glosy": 2689
+    },
+    "Napoleon": {
+      "id": 753342,
+      "tytul_tmdb": "Napoleon",
+      "gatunki": [
+        "History",
+        "War",
+        "Drama"
+      ],
+      "ocena": 6.301,
+      "glosy": 3349
+    },
+    "Narcos": {
+      "id": 63351,
+      "tytul_tmdb": "Narcos",
+      "gatunki": [
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 8.1,
+      "glosy": 3566
+    },
+    "Narodziny Gwiazdy": {
+      "id": 332562,
+      "tytul_tmdb": "Narodziny gwiazdy",
+      "gatunki": [
+        "Music",
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.5,
+      "glosy": 12505
+    },
+    "Naznaczony: Wyjście z mrocznego wymiaru": {
+      "id": 1291595,
+      "tytul_tmdb": "Naznaczony: Wyjście z mrocznego wymiaru",
+      "gatunki": [
+        "Horror",
+        "Thriller"
+      ],
+      "ocena": 7.7,
+      "glosy": 1081
+    },
+    "Niebieskooki samuraj": {
+      "id": 225180,
+      "tytul_tmdb": "Niebieskooki samuraj",
+      "gatunki": [
+        "Action & Adventure",
+        "Animation"
+      ],
+      "ocena": 8.5,
+      "glosy": 896
+    },
+    "Niepokalana": {
+      "id": 1041613,
+      "tytul_tmdb": "Niepokalana",
+      "gatunki": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "ocena": 6.197,
+      "glosy": 1777
+    },
+    "Niezniszczalni 4": {
+      "id": 299054,
+      "tytul_tmdb": "Niezniszczalni 4",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "ocena": 5.998,
+      "glosy": 2021
+    },
+    "Nosferatu": {
+      "id": 426063,
+      "tytul_tmdb": "Nosferatu",
+      "gatunki": [
+        "Horror",
+        "Fantasy"
+      ],
+      "ocena": 6.729,
+      "glosy": 4177
+    },
+    "Notatnik Śmierci": {
+      "id": 13916,
+      "tytul_tmdb": "Notatnik śmierci",
+      "gatunki": [
+        "Animation",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 8.615,
+      "glosy": 5280
+    },
+    "Notting Hill": {
+      "id": 509,
+      "tytul_tmdb": "Notting Hill",
+      "gatunki": [
+        "Romance",
+        "Comedy"
+      ],
+      "ocena": 7.3,
+      "glosy": 7000
+    },
+    "Obecność": {
+      "id": 138843,
+      "tytul_tmdb": "Obecność",
+      "gatunki": [
+        "Horror",
+        "Thriller"
+      ],
+      "ocena": 7.545,
+      "glosy": 13313
+    },
+    "Obsesja": {
+      "id": 1339713,
+      "tytul_tmdb": "Obsesja",
+      "gatunki": [
+        "Horror",
+        "Thriller"
+      ],
+      "ocena": 8.159,
+      "glosy": 6688
+    },
+    "Ocean ognia": {
+      "id": 399402,
+      "tytul_tmdb": "Ocean ognia",
+      "gatunki": [
+        "Action",
+        "Thriller"
+      ],
+      "ocena": 6.893,
+      "glosy": 2526
+    },
+    "Oddział zabójców": {
+      "id": 489245,
+      "tytul_tmdb": "Oddział zabójców",
+      "gatunki": [
+        "War",
+        "Action",
+        "Drama"
+      ],
+      "ocena": 6.5,
+      "glosy": 444
+    },
+    "Odyseja": {
+      "id": 1368337,
+      "tytul_tmdb": "Odyseja",
+      "gatunki": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "ocena": 8.019,
+      "glosy": 5220
+    },
+    "Ogniem i Mieczem": {
+      "id": 31273,
+      "tytul_tmdb": "Ogniem i mieczem",
+      "gatunki": [
+        "War",
+        "Romance",
+        "Drama"
+      ],
+      "ocena": 6.9,
+      "glosy": 113
+    },
+    "Ojciec chrzestny": {
+      "id": 238,
+      "tytul_tmdb": "Ojciec chrzestny",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.7,
+      "glosy": 24022
+    },
+    "Ojciec chrzestny II": {
+      "id": 240,
+      "tytul_tmdb": "Ojciec chrzestny II",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.574,
+      "glosy": 14646
+    },
+    "Okręt (1981)": {
+      "id": 387,
+      "tytul_tmdb": "Okręt",
+      "gatunki": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "ocena": 8.09,
+      "glosy": 2716
+    },
+    "Ona": {
+      "id": 152601,
+      "tytul_tmdb": "Ona",
+      "gatunki": [
+        "Romance",
+        "Science Fiction",
+        "Drama"
+      ],
+      "ocena": 7.8,
+      "glosy": 15859
+    },
+    "Oppenheimer": {
+      "id": 872585,
+      "tytul_tmdb": "Oppenheimer",
+      "gatunki": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "ocena": 8.023,
+      "glosy": 12947
+    },
+    "Oszukać przeznaczenie": {
+      "id": 9532,
+      "tytul_tmdb": "Oszukać przeznaczenie",
+      "gatunki": [
+        "Horror"
+      ],
+      "ocena": 6.7,
+      "glosy": 7106
+    },
+    "Pacific Rim": {
+      "id": 68726,
+      "tytul_tmdb": "Pacific Rim",
+      "gatunki": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "ocena": 6.9,
+      "glosy": 14034
+    },
+    "Pacific Rim: Rebelia": {
+      "id": 268896,
+      "tytul_tmdb": "Pacific Rim: Rebelia",
+      "gatunki": [
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "ocena": 6.107,
+      "glosy": 5583
+    },
+    "Pacyfik": {
+      "id": 16997,
+      "tytul_tmdb": "Pacyfik",
+      "gatunki": [
+        "Drama",
+        "Action & Adventure",
+        "War & Politics"
+      ],
+      "ocena": 7.8,
+      "glosy": 2634
+    },
+    "Pan Wilk i spółka. Bad Guys": {
+      "id": 629542,
+      "tytul_tmdb": "Pan Wilk i spółka. Bad Guys",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Family"
+      ],
+      "ocena": 7.496,
+      "glosy": 2753
+    },
+    "Pan i Pani Smith": {
+      "id": 787,
+      "tytul_tmdb": "Pan i Pani Smith",
+      "gatunki": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 6.7,
+      "glosy": 11701
+    },
+    "Paprika (2006)": {
+      "id": 4977,
+      "tytul_tmdb": "Paprika",
+      "gatunki": [
+        "Animation",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "ocena": 7.8,
+      "glosy": 3068
+    },
+    "Para Idealna": {
+      "id": 220564,
+      "tytul_tmdb": "Para idealna",
+      "gatunki": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "ocena": 6.7,
+      "glosy": 371
+    },
+    "Parasite": {
+      "id": 496243,
+      "tytul_tmdb": "Parasite",
+      "gatunki": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "ocena": 8.489,
+      "glosy": 21752
+    },
+    "Peaky Blinders": {
+      "id": 60574,
+      "tytul_tmdb": "Peaky Blinders",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.521,
+      "glosy": 11555
+    },
+    "Pianista": {
+      "id": 423,
+      "tytul_tmdb": "Pianista",
+      "gatunki": [
+        "Drama",
+        "War"
+      ],
+      "ocena": 8.369,
+      "glosy": 10654
+    },
+    "Piep*zyć Mickiewicza (2024)": {
+      "id": 1204629,
+      "tytul_tmdb": "Piep*zyć Mickiewicza",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 5.5,
+      "glosy": 27
+    },
+    "Pierścienie władzy": {
+      "id": 84773,
+      "tytul_tmdb": "Władca Pierścieni: Pierścienie Władzy",
+      "gatunki": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 7.2,
+      "glosy": 4114
+    },
+    "Piraci z Karaibów: Na krańcu świata": {
+      "id": 285,
+      "tytul_tmdb": "Piraci z Karaibów. Na krańcu świata",
+      "gatunki": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "ocena": 7.28,
+      "glosy": 16084
+    },
+    "Piękny umysł": {
+      "id": 453,
+      "tytul_tmdb": "Piękny umysł",
+      "gatunki": [
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.854,
+      "glosy": 11593
+    },
+    "Pięćdziesiąt twarzy Greya": {
+      "id": 216015,
+      "tytul_tmdb": "Pięćdziesiąt twarzy Greya",
+      "gatunki": [
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "ocena": 5.851,
+      "glosy": 12643
+    },
+    "Planeta Singli": {
+      "id": 383682,
+      "tytul_tmdb": "Planeta Singli",
+      "gatunki": [
+        "Comedy",
+        "Romance"
+      ],
+      "ocena": 6.596,
+      "glosy": 115
+    },
+    "Platforma (2019)": {
+      "id": 619264,
+      "tytul_tmdb": "Platforma",
+      "gatunki": [
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "ocena": 7.0,
+      "glosy": 8157
+    },
+    "Podziemny Krąg": {
+      "id": 550,
+      "tytul_tmdb": "Podziemny krąg",
+      "gatunki": [
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 8.437,
+      "glosy": 33394
+    },
+    "Polowanie na Czerwony Październik": {
+      "id": 1669,
+      "tytul_tmdb": "Polowanie na Czerwony Październik",
+      "gatunki": [
+        "Action",
+        "Thriller"
+      ],
+      "ocena": 7.4,
+      "glosy": 3854
+    },
+    "Potop": {
+      "id": 36627,
+      "tytul_tmdb": "Potop",
+      "gatunki": [
+        "History",
+        "Adventure",
+        "War",
+        "Romance"
+      ],
+      "ocena": 7.226,
+      "glosy": 93
+    },
+    "Prestiż": {
+      "id": 1124,
+      "tytul_tmdb": "Prestiż",
+      "gatunki": [
+        "Drama",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "ocena": 8.2,
+      "glosy": 18494
+    },
+    "Projekt Hail Mary": {
+      "id": 687163,
+      "tytul_tmdb": "Projekt Hail Mary",
+      "gatunki": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "ocena": 8.6,
+      "glosy": 8968
+    },
+    "Przesmyk": {
+      "id": 253370,
+      "tytul_tmdb": "Przesmyk",
+      "gatunki": [
+        "War & Politics",
+        "Action & Adventure",
+        "Mystery"
+      ],
+      "ocena": 6.816,
+      "glosy": 38
+    },
+    "Przełęcz ocalonych": {
+      "id": 324786,
+      "tytul_tmdb": "Przełęcz ocalonych",
+      "gatunki": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "ocena": 8.2,
+      "glosy": 15540
+    },
+    "Puchatek: Krew i miód (2023)": {
+      "id": 980078,
+      "tytul_tmdb": "Puchatek: Krew i miód",
+      "gatunki": [
+        "Horror"
+      ],
+      "ocena": 4.9,
+      "glosy": 1641
+    },
+    "Pulp Fiction": {
+      "id": 680,
+      "tytul_tmdb": "Pulp Fiction",
+      "gatunki": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "ocena": 8.5,
+      "glosy": 31374
+    },
+    "Raport pelikana": {
+      "id": 9944,
+      "tytul_tmdb": "Raport Pelikana",
+      "gatunki": [
+        "Thriller",
+        "Drama"
+      ],
+      "ocena": 6.6,
+      "glosy": 1872
+    },
+    "Rekinado": {
+      "id": 205321,
+      "tytul_tmdb": "Rekinado",
+      "gatunki": [
+        "Action",
+        "Comedy",
+        "Horror",
+        "Science Fiction",
+        "TV Movie"
+      ],
+      "ocena": 3.925,
+      "glosy": 1774
+    },
+    "Resident Evil (2002)": {
+      "id": 1576,
+      "tytul_tmdb": "Resident Evil",
+      "gatunki": [
+        "Horror",
+        "Action",
+        "Science Fiction"
+      ],
+      "ocena": 6.688,
+      "glosy": 7352
+    },
+    "Rick i Morty": {
+      "id": 60625,
+      "tytul_tmdb": "Rick i Morty",
+      "gatunki": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "ocena": 8.7,
+      "glosy": 11610
+    },
+    "Rodzina Soprano": {
+      "id": 1398,
+      "tytul_tmdb": "Rodzina Soprano",
+      "gatunki": [
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 8.679,
+      "glosy": 3813
+    },
+    "Rojst": {
+      "id": 81686,
+      "tytul_tmdb": "Rojst",
+      "gatunki": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "ocena": 6.8,
+      "glosy": 140
+    },
+    "Rycerz siedmiu królestw": {
+      "id": 224372,
+      "tytul_tmdb": "Rycerz Siedmiu Królestw",
+      "gatunki": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "ocena": 8.415,
+      "glosy": 1292
+    },
+    "Rzym": {
+      "id": 1891,
+      "tytul_tmdb": "Rzym",
+      "gatunki": [
+        "Action & Adventure",
+        "Drama"
+      ],
+      "ocena": 8.236,
+      "glosy": 1628
+    },
+    "Ród Smoka": {
+      "id": 94997,
+      "tytul_tmdb": "Ród Smoka",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "ocena": 8.376,
+      "glosy": 7341
+    },
+    "Sabrina": {
+      "id": 605,
+      "tytul_tmdb": "Sabrina, nastoletnia czarownica",
+      "gatunki": [
+        "Comedy",
+        "Family",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 7.774,
+      "glosy": 1266
+    },
+    "Samce Alfa": {
+      "id": 215092,
+      "tytul_tmdb": "Samce alfa",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 7.609,
+      "glosy": 183
+    },
+    "Sarnie Żniwo": {
+      "id": 644270,
+      "tytul_tmdb": "Sarnie żniwo, czyli pokusa statuetkowego szlaku",
+      "gatunki": [
+        "Comedy",
+        "Action"
+      ],
+      "ocena": 7.0,
+      "glosy": 6
+    },
+    "Shang-Chi i legenda dziesięciu pierścieni": null,
+    "Shark Exorcist": {
+      "id": 387396,
+      "tytul_tmdb": "Shark Exorcist",
+      "gatunki": [
+        "Horror"
+      ],
+      "ocena": 2.6,
+      "glosy": 51
+    },
+    "Shrek": {
+      "id": 808,
+      "tytul_tmdb": "Shrek",
+      "gatunki": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "ocena": 7.781,
+      "glosy": 19615
+    },
+    "Siedem": {
+      "id": 807,
+      "tytul_tmdb": "Siedem",
+      "gatunki": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "ocena": 8.4,
+      "glosy": 24259
+    },
+    "Simpsonowie": {
+      "id": 456,
+      "tytul_tmdb": "Simpsonowie",
+      "gatunki": [
+        "Animation",
+        "Comedy"
+      ],
+      "ocena": 8.029,
+      "glosy": 11190
+    },
+    "Skarb Narodów": {
+      "id": 2059,
+      "tytul_tmdb": "Skarb Narodów",
+      "gatunki": [
+        "Adventure",
+        "Action",
+        "Mystery"
+      ],
+      "ocena": 6.7,
+      "glosy": 7188
+    },
+    "Skazani na Shawshank": {
+      "id": 278,
+      "tytul_tmdb": "Skazani na Shawshank",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.735,
+      "glosy": 31891
+    },
+    "Skazany na śmierć": {
+      "id": 2288,
+      "tytul_tmdb": "Skazany na śmierć",
+      "gatunki": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 8.058,
+      "glosy": 6283
+    },
+    "Slender Man": {
+      "id": 439015,
+      "tytul_tmdb": "Slender Man",
+      "gatunki": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "ocena": 4.299,
+      "glosy": 2211
+    },
+    "Smoleńsk": {
+      "id": 415861,
+      "tytul_tmdb": "Smoleńsk",
+      "gatunki": [
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 2.6,
+      "glosy": 67
+    },
+    "Snajper": {
+      "id": 190859,
+      "tytul_tmdb": "Snajper",
+      "gatunki": [
+        "War",
+        "Action"
+      ],
+      "ocena": 7.403,
+      "glosy": 14046
+    },
+    "Spider-Man: Całkiem nowy dzień": {
+      "id": 969681,
+      "tytul_tmdb": "Spider-Man: Całkiem nowy dzień",
+      "gatunki": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "ocena": 8.457,
+      "glosy": 6997
+    },
+    "Spider-Man: Homecoming": {
+      "id": 315635,
+      "tytul_tmdb": "Spider-Man: Homecoming",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "ocena": 7.332,
+      "glosy": 24274
+    },
+    "Sprawiedliwość Owiec": {
+      "id": 1301421,
+      "tytul_tmdb": "Sprawiedliwość owiec",
+      "gatunki": [
+        "Comedy",
+        "Crime",
+        "Mystery",
+        "Family"
+      ],
+      "ocena": 7.9,
+      "glosy": 1944
+    },
+    "Starcie tytanów": {
+      "id": 18823,
+      "tytul_tmdb": "Starcie tytanów",
+      "gatunki": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "ocena": 5.9,
+      "glosy": 6954
+    },
+    "Stranger Things": {
+      "id": 66732,
+      "tytul_tmdb": "Stranger Things",
+      "gatunki": [
+        "Action & Adventure",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 8.541,
+      "glosy": 22170
+    },
+    "Straszny Film 3": {
+      "id": 4256,
+      "tytul_tmdb": "Straszny Film 3",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 5.976,
+      "glosy": 4749
+    },
+    "Strefa gangsterów": {
+      "id": 247718,
+      "tytul_tmdb": "Strefa gangsterów",
+      "gatunki": [
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 8.672,
+      "glosy": 1276
+    },
+    "Substancja": {
+      "id": 933260,
+      "tytul_tmdb": "Substancja",
+      "gatunki": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "ocena": 7.131,
+      "glosy": 6815
+    },
+    "Szeregowiec Ryan": {
+      "id": 857,
+      "tytul_tmdb": "Szeregowiec Ryan",
+      "gatunki": [
+        "War",
+        "Drama",
+        "History"
+      ],
+      "ocena": 8.236,
+      "glosy": 18109
+    },
+    "Tajemniczy ogród": {
+      "id": 11236,
+      "tytul_tmdb": "Tajemniczy ogród",
+      "gatunki": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "ocena": 7.4,
+      "glosy": 1029
+    },
+    "Ted (2012)": {
+      "id": 72105,
+      "tytul_tmdb": "Ted",
+      "gatunki": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "ocena": 6.5,
+      "glosy": 13660
+    },
+    "Tenet": {
+      "id": 577922,
+      "tytul_tmdb": "Tenet",
+      "gatunki": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "ocena": 7.171,
+      "glosy": 11804
+    },
+    "Teoria wielkiego podrywu": {
+      "id": 1418,
+      "tytul_tmdb": "Teoria wielkiego podrywu",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 7.929,
+      "glosy": 12994
+    },
+    "Teoria wszystkiego": {
+      "id": 266856,
+      "tytul_tmdb": "Teoria wszystkiego",
+      "gatunki": [
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.8,
+      "glosy": 11380
+    },
+    "Terminal (2004)": {
+      "id": 594,
+      "tytul_tmdb": "Terminal",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 7.4,
+      "glosy": 9124
+    },
+    "Terminator 2": {
+      "id": 280,
+      "tytul_tmdb": "Terminator 2: Dzień sądu",
+      "gatunki": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "ocena": 8.2,
+      "glosy": 15217
+    },
+    "Terrifier": {
+      "id": 420634,
+      "tytul_tmdb": "Masakra w Halloween",
+      "gatunki": [
+        "Horror"
+      ],
+      "ocena": 6.28,
+      "glosy": 3159
+    },
+    "Testosteron": {
+      "id": 39561,
+      "tytul_tmdb": "Testosteron",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 5.5,
+      "glosy": 86
+    },
+    "The Expanse": {
+      "id": 63639,
+      "tytul_tmdb": "The Expanse",
+      "gatunki": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi & Fantasy"
+      ],
+      "ocena": 8.1,
+      "glosy": 3017
+    },
+    "The amazing bulk": {
+      "id": 109125,
+      "tytul_tmdb": "The Amazing Bulk",
+      "gatunki": [
+        "Action",
+        "Comedy",
+        "Science Fiction",
+        "Adventure",
+        "Animation"
+      ],
+      "ocena": 2.5,
+      "glosy": 83
+    },
+    "Thor: Miłość i grom": {
+      "id": 616037,
+      "tytul_tmdb": "Thor: Miłość i grom",
+      "gatunki": [
+        "Fantasy",
+        "Action",
+        "Comedy"
+      ],
+      "ocena": 6.343,
+      "glosy": 9170
+    },
+    "Thor: Ragnarok": {
+      "id": 284053,
+      "tytul_tmdb": "Thor: Ragnarok",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "ocena": 7.577,
+      "glosy": 22788
+    },
+    "Titanic": {
+      "id": 597,
+      "tytul_tmdb": "Titanic",
+      "gatunki": [
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.9,
+      "glosy": 28108
+    },
+    "To nie jest kraj dla starych ludzi": {
+      "id": 6977,
+      "tytul_tmdb": "To nie jest kraj dla starych ludzi",
+      "gatunki": [
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "ocena": 7.95,
+      "glosy": 14103
+    },
+    "To: Witajcie w Derry": {
+      "id": 200875,
+      "tytul_tmdb": "To: Witajcie w Derry",
+      "gatunki": [
+        "Drama",
+        "Mystery"
+      ],
+      "ocena": 8.261,
+      "glosy": 1811
+    },
+    "Tokyo Vice": {
+      "id": 90296,
+      "tytul_tmdb": "Tokyo Vice",
+      "gatunki": [
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 7.855,
+      "glosy": 434
+    },
+    "Top Boy": {
+      "id": 93544,
+      "tytul_tmdb": "Top Boy",
+      "gatunki": [
+        "Crime",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "ocena": 8.015,
+      "glosy": 170
+    },
+    "Tora! Tora! Tora!": {
+      "id": 11165,
+      "tytul_tmdb": "Tora! Tora! Tora!",
+      "gatunki": [
+        "War",
+        "History",
+        "Drama"
+      ],
+      "ocena": 7.181,
+      "glosy": 648
+    },
+    "Transformers: Przebudzenie bestii": {
+      "id": 667538,
+      "tytul_tmdb": "Transformers. Przebudzenie bestii",
+      "gatunki": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "ocena": 7.147,
+      "glosy": 5534
+    },
+    "Transformers: Wiek zagłady": {
+      "id": 91314,
+      "tytul_tmdb": "Transformers. Wiek zagłady",
+      "gatunki": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "ocena": 5.976,
+      "glosy": 9073
+    },
+    "Truman Show": {
+      "id": 37165,
+      "tytul_tmdb": "Truman Show",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 8.161,
+      "glosy": 21268
+    },
+    "Trump vs the illuminati": {
+      "id": 750578,
+      "tytul_tmdb": "Trump vs the Illuminati",
+      "gatunki": [
+        "Animation",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "ocena": 2.1,
+      "glosy": 17
+    },
+    "Twisters": {
+      "id": 718821,
+      "tytul_tmdb": "Twisters",
+      "gatunki": [
+        "Action",
+        "Thriller"
+      ],
+      "ocena": 6.742,
+      "glosy": 3278
+    },
+    "Twórca": {
+      "id": 670292,
+      "tytul_tmdb": "Twórca",
+      "gatunki": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "ocena": 7.013,
+      "glosy": 4303
+    },
+    "Ucieczka z Alcatraz": {
+      "id": 10734,
+      "tytul_tmdb": "Ucieczka z Alcatraz",
+      "gatunki": [
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 7.499,
+      "glosy": 3356
+    },
+    "Ukryta twarz": {
+      "id": 80184,
+      "tytul_tmdb": "Ukryta twarz",
+      "gatunki": [
+        "Thriller",
+        "Mystery"
+      ],
+      "ocena": 7.289,
+      "glosy": 1196
+    },
+    "Ukryte działania": {
+      "id": 381284,
+      "tytul_tmdb": "Ukryte działania",
+      "gatunki": [
+        "Drama",
+        "History"
+      ],
+      "ocena": 8.053,
+      "glosy": 10841
+    },
+    "Velocipastor": {
+      "id": 457712,
+      "tytul_tmdb": "The VelociPastor",
+      "gatunki": [
+        "Action",
+        "Horror",
+        "Comedy"
+      ],
+      "ocena": 5.454,
+      "glosy": 282
+    },
+    "W garniturach": {
+      "id": 37680,
+      "tytul_tmdb": "W garniturach",
+      "gatunki": [
+        "Drama"
+      ],
+      "ocena": 8.22,
+      "glosy": 6047
+    },
+    "W trójkącie": {
+      "id": 497828,
+      "tytul_tmdb": "W trójkącie",
+      "gatunki": [
+        "Comedy",
+        "Drama"
+      ],
+      "ocena": 7.0,
+      "glosy": 3132
+    },
+    "Warcraft: Początek": {
+      "id": 68735,
+      "tytul_tmdb": "Warcraft: Początek",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "ocena": 6.427,
+      "glosy": 7615
+    },
+    "Wednesday": {
+      "id": 119051,
+      "tytul_tmdb": "Wednesday",
+      "gatunki": [
+        "Sci-Fi & Fantasy",
+        "Mystery",
+        "Comedy"
+      ],
+      "ocena": 8.322,
+      "glosy": 10983
+    },
+    "Whiplash": {
+      "id": 244786,
+      "tytul_tmdb": "Whiplash",
+      "gatunki": [
+        "Drama",
+        "Music",
+        "Thriller"
+      ],
+      "ocena": 8.4,
+      "glosy": 17427
+    },
+    "Wielki Marty": {
+      "id": 1317288,
+      "tytul_tmdb": "Wielki Marty",
+      "gatunki": [
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 7.359,
+      "glosy": 2430
+    },
+    "Wilk z Wall Street": {
+      "id": 106646,
+      "tytul_tmdb": "Wilk z Wall Street",
+      "gatunki": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "ocena": 8.0,
+      "glosy": 26974
+    },
+    "Wszystko wszędzie naraz": {
+      "id": 545611,
+      "tytul_tmdb": "Wszystko wszędzie naraz",
+      "gatunki": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "ocena": 7.713,
+      "glosy": 8685
+    },
+    "Wyjazd integracyjny": {
+      "id": 79247,
+      "tytul_tmdb": "Wyjazd integracyjny",
+      "gatunki": [
+        "Comedy"
+      ],
+      "ocena": 3.9,
+      "glosy": 24
+    },
+    "Wyspa tajemnic": {
+      "id": 11324,
+      "tytul_tmdb": "Wyspa tajemnic",
+      "gatunki": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "ocena": 8.2,
+      "glosy": 26855
+    },
+    "Wzgórza mają oczy": {
+      "id": 9792,
+      "tytul_tmdb": "Wzgórza Mają Oczy",
+      "gatunki": [
+        "Horror",
+        "Thriller"
+      ],
+      "ocena": 6.487,
+      "glosy": 3561
+    },
+    "Wzgórze Psów": {
+      "id": 230127,
+      "tytul_tmdb": "Wzgórze psów",
+      "gatunki": [
+        "Mystery",
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 6.8,
+      "glosy": 64
+    },
+    "Władca Pierścieni: Powrót Króla": {
+      "id": 122,
+      "tytul_tmdb": "Władca Pierścieni: Powrót króla",
+      "gatunki": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "ocena": 8.508,
+      "glosy": 27871
+    },
+    "Zadzwoń do Saula": {
+      "id": 60059,
+      "tytul_tmdb": "Zadzwoń do Saula",
+      "gatunki": [
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 8.715,
+      "glosy": 7114
+    },
+    "Zielona Mila": {
+      "id": 497,
+      "tytul_tmdb": "Zielona mila",
+      "gatunki": [
+        "Fantasy",
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 8.504,
+      "glosy": 20165
+    },
+    "Zmierzch": {
+      "id": 8966,
+      "tytul_tmdb": "Zmierzch",
+      "gatunki": [
+        "Fantasy",
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 6.271,
+      "glosy": 14881
+    },
+    "Znachor": {
+      "id": 1081676,
+      "tytul_tmdb": "Znachor",
+      "gatunki": [
+        "Drama",
+        "Romance"
+      ],
+      "ocena": 7.8,
+      "glosy": 382
+    },
+    "Złap mnie, jeśli potrafisz": {
+      "id": 640,
+      "tytul_tmdb": "Złap mnie, jeśli potrafisz",
+      "gatunki": [
+        "Drama",
+        "Crime"
+      ],
+      "ocena": 7.978,
+      "glosy": 17907
+    },
+    "iHostage": {
+      "id": 1371202,
+      "tytul_tmdb": "iHostage",
+      "gatunki": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "ocena": 5.922,
+      "glosy": 346
+    },
+    "Łowca androidów (1982)": {
+      "id": 78,
+      "tytul_tmdb": "Łowca androidów",
+      "gatunki": [
+        "Science Fiction",
+        "Drama",
+        "Thriller"
+      ],
+      "ocena": 7.937,
+      "glosy": 15665
+    },
+    "Śnieżka": {
+      "id": 447273,
+      "tytul_tmdb": "Śnieżka",
+      "gatunki": [
+        "Family",
+        "Fantasy"
+      ],
+      "ocena": 4.235,
+      "glosy": 1794
+    }
+  }
+}
